@@ -33,5 +33,3 @@ D:\Oana\Login\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
 D:\Oana\Login\Login\bin\Debug\MySql.Data.dll
 D:\Oana\Login\Login\obj\x86\Debug\Login.FormAd.resources
 D:\Oana\Login\Login\obj\x86\Debug\Login.FormNewUser.resources
-D:\Oana\ZiarAZ\Login\obj\x86\Debug\Login.exe
-D:\Oana\ZiarAZ\Login\obj\x86\Debug\Login.pdb
