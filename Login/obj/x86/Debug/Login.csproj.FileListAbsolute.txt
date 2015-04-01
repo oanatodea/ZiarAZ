@@ -1,0 +1,37 @@
+D:\30234\Todea Oana\Login\Login\bin\Debug\Login.exe
+D:\30234\Todea Oana\Login\Login\bin\Debug\Login.pdb
+D:\30234\Todea Oana\Login\Login\obj\x86\Debug\Login.LoginForm.resources
+D:\30234\Todea Oana\Login\Login\obj\x86\Debug\Login.Properties.Resources.resources
+D:\30234\Todea Oana\Login\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+D:\30234\Todea Oana\Login\Login\obj\x86\Debug\Login.exe
+D:\30234\Todea Oana\Login\Login\obj\x86\Debug\Login.pdb
+D:\30234\Todea Oana\Login\Login\obj\x86\Debug\Login.FormAdmin.resources
+D:\30234\Todea Oana\Login\Login\obj\x86\Debug\Login.FormUser.resources
+D:\30234\Todea Oana\Login\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+D:\30234\Todea Oana\Login\Login\bin\Debug\BL.dll
+D:\30234\Todea Oana\Login\Login\bin\Debug\DAL.dll
+D:\30234\Todea Oana\Login\Login\bin\Debug\Entities.dll
+D:\30234\Todea Oana\Login\Login\bin\Debug\BL.pdb
+D:\30234\Todea Oana\Login\Login\bin\Debug\DAL.pdb
+D:\30234\Todea Oana\Login\Login\bin\Debug\Entities.pdb
+D:\Oana\Login\Login\obj\x86\Debug\Login.exe
+D:\Oana\Login\Login\obj\x86\Debug\Login.pdb
+D:\Oana\Login\Login\bin\Debug\Login.exe
+D:\Oana\Login\Login\bin\Debug\Login.pdb
+D:\Oana\Login\Login\bin\Debug\BL.dll
+D:\Oana\Login\Login\bin\Debug\DAL.dll
+D:\Oana\Login\Login\bin\Debug\Entities.dll
+D:\Oana\Login\Login\bin\Debug\BL.pdb
+D:\Oana\Login\Login\bin\Debug\DAL.pdb
+D:\Oana\Login\Login\bin\Debug\Entities.pdb
+D:\Oana\Login\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+D:\Oana\Login\Login\obj\x86\Debug\Login.FormAdmin.resources
+D:\Oana\Login\Login\obj\x86\Debug\Login.LoginForm.resources
+D:\Oana\Login\Login\obj\x86\Debug\Login.FormUser.resources
+D:\Oana\Login\Login\obj\x86\Debug\Login.Properties.Resources.resources
+D:\Oana\Login\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+D:\Oana\Login\Login\bin\Debug\MySql.Data.dll
+D:\Oana\Login\Login\obj\x86\Debug\Login.FormAd.resources
+D:\Oana\Login\Login\obj\x86\Debug\Login.FormNewUser.resources
+D:\Oana\ZiarAZ\Login\obj\x86\Debug\Login.exe
+D:\Oana\ZiarAZ\Login\obj\x86\Debug\Login.pdb

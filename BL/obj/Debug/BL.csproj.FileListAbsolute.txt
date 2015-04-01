@@ -1,0 +1,19 @@
+D:\30234\Todea Oana\Login\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\30234\Todea Oana\Login\BL\bin\Debug\BL.dll
+D:\30234\Todea Oana\Login\BL\bin\Debug\BL.pdb
+D:\30234\Todea Oana\Login\BL\bin\Debug\DAL.dll
+D:\30234\Todea Oana\Login\BL\bin\Debug\Entities.dll
+D:\30234\Todea Oana\Login\BL\bin\Debug\DAL.pdb
+D:\30234\Todea Oana\Login\BL\bin\Debug\Entities.pdb
+D:\30234\Todea Oana\Login\BL\obj\Debug\BL.dll
+D:\30234\Todea Oana\Login\BL\obj\Debug\BL.pdb
+D:\Oana\Login\BL\bin\Debug\BL.dll
+D:\Oana\Login\BL\bin\Debug\BL.pdb
+D:\Oana\Login\BL\bin\Debug\DAL.dll
+D:\Oana\Login\BL\bin\Debug\Entities.dll
+D:\Oana\Login\BL\bin\Debug\DAL.pdb
+D:\Oana\Login\BL\bin\Debug\Entities.pdb
+D:\Oana\Login\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Oana\Login\BL\obj\Debug\BL.dll
+D:\Oana\Login\BL\obj\Debug\BL.pdb
+D:\Oana\Login\BL\bin\Debug\MySql.Data.dll

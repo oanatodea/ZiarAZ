@@ -1,0 +1,9 @@
+D:\30234\Todea Oana\Login\Entities\bin\Debug\Entities.dll
+D:\30234\Todea Oana\Login\Entities\bin\Debug\Entities.pdb
+D:\30234\Todea Oana\Login\Entities\obj\Debug\Entities.dll
+D:\30234\Todea Oana\Login\Entities\obj\Debug\Entities.pdb
+D:\Oana\Login\Entities\bin\Debug\Entities.dll
+D:\Oana\Login\Entities\bin\Debug\Entities.pdb
+D:\Oana\Login\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Oana\Login\Entities\obj\Debug\Entities.dll
+D:\Oana\Login\Entities\obj\Debug\Entities.pdb

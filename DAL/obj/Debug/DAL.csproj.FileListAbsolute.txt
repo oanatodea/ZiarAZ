@@ -1,0 +1,15 @@
+D:\30234\Todea Oana\Login\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\30234\Todea Oana\Login\DAL\bin\Debug\DAL.dll
+D:\30234\Todea Oana\Login\DAL\bin\Debug\DAL.pdb
+D:\30234\Todea Oana\Login\DAL\bin\Debug\Entities.dll
+D:\30234\Todea Oana\Login\DAL\bin\Debug\Entities.pdb
+D:\30234\Todea Oana\Login\DAL\obj\Debug\DAL.dll
+D:\30234\Todea Oana\Login\DAL\obj\Debug\DAL.pdb
+D:\Oana\Login\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Oana\Login\DAL\obj\Debug\DAL.dll
+D:\Oana\Login\DAL\obj\Debug\DAL.pdb
+D:\Oana\Login\DAL\bin\Debug\DAL.dll
+D:\Oana\Login\DAL\bin\Debug\DAL.pdb
+D:\Oana\Login\DAL\bin\Debug\Entities.dll
+D:\Oana\Login\DAL\bin\Debug\MySql.Data.dll
+D:\Oana\Login\DAL\bin\Debug\Entities.pdb
